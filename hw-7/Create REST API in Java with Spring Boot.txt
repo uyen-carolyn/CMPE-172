@@ -1,0 +1,5 @@
+Quickest Way
+https://www.javadevjournal.com/spring-boot/spring-boot-mysql/
+
+Accessing data with MySQL
+https://spring.io/guides/gs/accessing-data-mysql/?fbclid=IwAR0rOtQWeu9dy6YYCvMZQnupCioXQGa9K0GjDI03lO2lB2rQt8OioOmQFWU
